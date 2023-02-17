@@ -4,22 +4,22 @@
   "links": [
     {
       "title": "My personal site",
-      "url": "https://twitter.com/leerob",
+      "href": "https://twitter.com/leerob",
       "image": "https://pbs.twimg.com/profile_images/1603676695357435904/mDzdGLO-_400x400.jpg"
     },
     {
       "title": "vercel.com",
-      "url": "https://twitter.com/leerob"
+      "href": "https://twitter.com/leerob"
     }
   ],
   "socials": [
     {
       "title": "Twitter",
-      "url": "https://twitter.com/leerob"
+      "href": "https://twitter.com/leerob"
     },
     {
       "title": "GitHub",
-      "url": "https://twitter.com/leerob"
+      "href": "https://twitter.com/leerob"
     }
   ]
 }
